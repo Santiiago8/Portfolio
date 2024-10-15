@@ -4,7 +4,7 @@
       "title": "Web Development",
       "description": "Developed a modern and responsive landing page for an Egyptian academy specializing in aerial silks and other aerial disciplines. The site features sections like Home, About, Services, and Contact, designed to highlight the academy's offerings. This first release focuses on presenting the academy, with future phases planned to introduce a backend for student registration and additional functionalities. Currently in development and not yet live",
       "technologies": ["Vite", "React"],
-      "imageUrl": "../../public/img/ElCieloAcademyHome.png",
+      "imageUrl": "/public/img/ElCieloAcademyHome.png",
       "githubUrl": "https://github.com/Santiiago8/El_Cielo_Academy"
     },
     {
@@ -12,7 +12,7 @@
       "title": "FullStack Desktop App",
       "description": "Developed a full-stack desktop application for a motorcycle parts business to manage inventory efficiently. The app allows real-time tracking of stock levels, incoming orders, and product management, all built with React, Node.js, and Electron for a seamless user experience. Integrated PostgreSQL for secure data storage and implemented an intuitive interface for easy navigation.",
       "technologies": ["React", "Node.js", "Express.js", "PostgreSQL", "Electron"],
-      "imageUrl": "../../public/img/CebanorFrontExample.png",
+      "imageUrl": "/public/img/CebanorFrontExample.png",
       "githubUrl": "https://github.com/Santiiago8/stock-cebanor-backend"
     },
     {
@@ -20,7 +20,7 @@
       "title": "Sentiment Analysis Mobile App",
       "description": "Developed a mobile app that analyzes user-submitted text to determine sentiment, leveraging Google Cloud Natural Language API. Built with React Native and Node.js, the app helps users reflect on their emotions by providing real-time feedback on the tone of their messages.",
       "technologies": ["React Native", "Expo", "Node.js", "Express.js", "Google Cloud", "Natural Language API"],
-      "imageUrl": "../../public/img/EmotioScanFrontExample.png",
+      "imageUrl": "/public/img/EmotioScanFrontExample.png",
       "githubUrl": "https://github.com/Santiiago8/EmotioScanBackEnd"
     }
     
